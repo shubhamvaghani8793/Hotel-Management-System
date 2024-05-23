@@ -1,0 +1,18 @@
+C:\Users\Shubham\source\repos\hotel project\hotel project\bin\Debug\hotel project.exe.config
+C:\Users\Shubham\source\repos\hotel project\hotel project\bin\Debug\hotel project.exe
+C:\Users\Shubham\source\repos\hotel project\hotel project\bin\Debug\hotel project.pdb
+C:\Users\Shubham\source\repos\hotel project\hotel project\bin\Debug\hotel project.xml
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel project.vbproj.AssemblyReference.cache
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.Adminloagin.resources
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.client.resources
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.loadingpage.resources
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.login.resources
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.Resources.resources
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.Staffs.resources
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel project.vbproj.GenerateResource.cache
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel project.vbproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel project.exe
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel project.xml
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel project.pdb
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.resevetionpage.resources
+C:\Users\Shubham\source\repos\hotel project\hotel project\obj\Debug\hotel_project.payment.resources
